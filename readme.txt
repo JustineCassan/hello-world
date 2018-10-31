@@ -1,2 +1,2 @@
 Hello!
-I'm Justine and I learn Git
+I'm Justine and I learn Git.
